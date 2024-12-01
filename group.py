@@ -24,6 +24,10 @@ zalinka = {
             "jill": "jill",
             "connection": "friend"
         },
+        {
+            "nash":"nash",
+            "connection":"landlor"
+        },
     ]
 }
 
